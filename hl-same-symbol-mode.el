@@ -76,4 +76,4 @@
   (mapcar 'delete-overlay *hl-same-symbol::list*)
   (setf *hl-same-symbol::list* nil))
 
-(provide 'hl-same-symbol)
+(provide 'hl-same-symbol-mode)
